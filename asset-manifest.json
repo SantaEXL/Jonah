@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jonah/static/css/main.af0f38c5.css",
+    "main.js": "/Jonah/static/js/main.0441de33.js",
+    "index.html": "/Jonah/index.html",
+    "main.af0f38c5.css.map": "/Jonah/static/css/main.af0f38c5.css.map",
+    "main.0441de33.js.map": "/Jonah/static/js/main.0441de33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af0f38c5.css",
+    "static/js/main.0441de33.js"
+  ]
+}
